@@ -1,4 +1,4 @@
-let base = 750
+var base = 750
 if (typeof $P_2_R_BASE$ !=='undefined' && $P_2_R_BASE$!=='undefined') {
   base = parseInt($P_2_R_BASE$)
 }
